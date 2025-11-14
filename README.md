@@ -7,9 +7,6 @@ AdaDRO: Adaptive Robust Classification Driven by Optimal Transport
 
 ### Installation
 
-```bash
-pip install torch torchvision matplotlib seaborn scikit-learn numpy
-```
 
 ### Basic Usage
 
